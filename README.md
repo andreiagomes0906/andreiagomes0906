@@ -1,5 +1,5 @@
-### Olá!:raising_hand:
-Sou Andréia Gomes.:blush:                          
+### Olá!
+Sou Andréia Gomes</>                        
 Estudando TIC para realizar transição de carreira    
 de Gestão Comercial para Tecnologia com foco em Testes e Governança.        
 
